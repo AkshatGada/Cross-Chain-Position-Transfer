@@ -1,6 +1,6 @@
-# Cross-Chain V3 Position Transfer: Educational Walkthrough
+# Cross-Chain V3 Position Transfer ( WIP )
 
-> Note: This repository currently contains the main script files only. The full end-to-end integration, including local POC testing support and AggSandbox (Agglayer sandbox) integration, will be added soon.
+> Note: This repository currently contains the main script files only. The full end-to-end integration, including local POC testing support and AggSandbox integration, will be added soon.
 
 ## Overview
 
